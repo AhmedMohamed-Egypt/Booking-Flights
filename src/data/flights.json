@@ -1,0 +1,5016 @@
+{
+    "pagination": {
+      "limit": 100,
+      "offset": 0,
+      "count": 100,
+      "total": 367291
+    },
+    "data": [
+      {
+        "flight_date": "2024-07-22",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Fagali I",
+          "timezone": "Pacific/Apia",
+          "iata": "FGI",
+          "icao": "NSAP",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-22T00:00:00+00:00",
+          "estimated": "2024-07-22T00:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Pago Pago International Airport",
+          "timezone": "Pacific/Pago_Pago",
+          "iata": "PPG",
+          "icao": "NSTU",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T00:35:00+00:00",
+          "estimated": "2024-07-21T00:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Samoa Airways",
+          "iata": "OL",
+          "icao": "PAO"
+        },
+        "flight": {
+          "number": "226",
+          "iata": "OL226",
+          "icao": "PAO226",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-22",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Jabiru",
+          "timezone": "Australia/Darwin",
+          "iata": "JAB",
+          "icao": "YJAB",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-22T09:00:00+00:00",
+          "estimated": "2024-07-22T09:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Darwin",
+          "timezone": "Australia/Darwin",
+          "iata": "DRW",
+          "icao": "YPDN",
+          "terminal": "1",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T09:50:00+00:00",
+          "estimated": "2024-07-21T09:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "empty",
+          "iata": null,
+          "icao": null
+        },
+        "flight": {
+          "number": null,
+          "iata": null,
+          "icao": null,
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": "3H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:55:00+00:00",
+          "estimated": "2024-07-21T17:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Kunming Airlines",
+          "iata": "KY",
+          "icao": "KNA"
+        },
+        "flight": {
+          "number": "6813",
+          "iata": "KY6813",
+          "icao": "KNA6813",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9813",
+            "flight_iata": "tv9813",
+            "flight_icao": "tba9813"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": "3H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:55:00+00:00",
+          "estimated": "2024-07-21T17:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shenzhen Airlines",
+          "iata": "ZH",
+          "icao": "CSZ"
+        },
+        "flight": {
+          "number": "3709",
+          "iata": "ZH3709",
+          "icao": "CSZ3709",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9813",
+            "flight_iata": "tv9813",
+            "flight_icao": "tba9813"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": "3H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:55:00+00:00",
+          "estimated": "2024-07-21T17:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air China LTD",
+          "iata": "CA",
+          "icao": "CCA"
+        },
+        "flight": {
+          "number": "3937",
+          "iata": "CA3937",
+          "icao": "CCA3937",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9813",
+            "flight_iata": "tv9813",
+            "flight_icao": "tba9813"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": "3H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:55:00+00:00",
+          "estimated": "2024-07-21T17:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Chengdu Airlines",
+          "iata": "EU",
+          "icao": "UEA"
+        },
+        "flight": {
+          "number": "7783",
+          "iata": "EU7783",
+          "icao": "UEA7783",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9813",
+            "flight_iata": "tv9813",
+            "flight_icao": "tba9813"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": "3H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:55:00+00:00",
+          "estimated": "2024-07-21T17:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "6069",
+          "iata": "SC6069",
+          "icao": "CDG6069",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9813",
+            "flight_iata": "tv9813",
+            "flight_icao": "tba9813"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": "3H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:55:00+00:00",
+          "estimated": "2024-07-21T17:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Loong Air",
+          "iata": "GJ",
+          "icao": "CDC"
+        },
+        "flight": {
+          "number": "5469",
+          "iata": "GJ5469",
+          "icao": "CDC5469",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9813",
+            "flight_iata": "tv9813",
+            "flight_icao": "tba9813"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "delay": 8,
+          "scheduled": "2024-07-21T15:10:00+00:00",
+          "estimated": "2024-07-21T15:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shenzhen Airlines",
+          "iata": "ZH",
+          "icao": "CSZ"
+        },
+        "flight": {
+          "number": "3741",
+          "iata": "ZH3741",
+          "icao": "CSZ3741",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9845",
+            "flight_iata": "tv9845",
+            "flight_icao": "tba9845"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "delay": 8,
+          "scheduled": "2024-07-21T15:10:00+00:00",
+          "estimated": "2024-07-21T15:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "6097",
+          "iata": "SC6097",
+          "icao": "CDG6097",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9845",
+            "flight_iata": "tv9845",
+            "flight_icao": "tba9845"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "delay": 8,
+          "scheduled": "2024-07-21T15:10:00+00:00",
+          "estimated": "2024-07-21T15:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Kunming Airlines",
+          "iata": "KY",
+          "icao": "KNA"
+        },
+        "flight": {
+          "number": "6845",
+          "iata": "KY6845",
+          "icao": "KNA6845",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9845",
+            "flight_iata": "tv9845",
+            "flight_icao": "tba9845"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "delay": 8,
+          "scheduled": "2024-07-21T15:10:00+00:00",
+          "estimated": "2024-07-21T15:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Loong Air",
+          "iata": "GJ",
+          "icao": "CDC"
+        },
+        "flight": {
+          "number": "5497",
+          "iata": "GJ5497",
+          "icao": "CDC5497",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9845",
+            "flight_iata": "tv9845",
+            "flight_icao": "tba9845"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "delay": 8,
+          "scheduled": "2024-07-21T15:10:00+00:00",
+          "estimated": "2024-07-21T15:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Chengdu Airlines",
+          "iata": "EU",
+          "icao": "UEA"
+        },
+        "flight": {
+          "number": "7811",
+          "iata": "EU7811",
+          "icao": "UEA7811",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9845",
+            "flight_iata": "tv9845",
+            "flight_icao": "tba9845"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "delay": 8,
+          "scheduled": "2024-07-21T15:10:00+00:00",
+          "estimated": "2024-07-21T15:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air China LTD",
+          "iata": "CA",
+          "icao": "CCA"
+        },
+        "flight": {
+          "number": "3949",
+          "iata": "CA3949",
+          "icao": "CCA3949",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9845",
+            "flight_iata": "tv9845",
+            "flight_icao": "tba9845"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:45:00+00:00",
+          "estimated": "2024-07-21T18:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chengdu Tianfu International Airport",
+          "timezone": "Asia/Chongqing",
+          "iata": "TFU",
+          "icao": "ZUTF",
+          "terminal": "2",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T20:50:00+00:00",
+          "estimated": "2024-07-21T20:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "China Southern Airlines",
+          "iata": "CZ",
+          "icao": "CSN"
+        },
+        "flight": {
+          "number": "1471",
+          "iata": "CZ1471",
+          "icao": "CSN1471",
+          "codeshared": {
+            "airline_name": "chengdu airlines",
+            "airline_iata": "eu",
+            "airline_icao": "uea",
+            "flight_number": "1950",
+            "flight_iata": "eu1950",
+            "flight_icao": "uea1950"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chengdu Tianfu International Airport",
+          "timezone": "Asia/Chongqing",
+          "iata": "TFU",
+          "icao": "ZUTF",
+          "terminal": "2",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:00:00+00:00",
+          "estimated": "2024-07-21T21:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Xiamen Airlines",
+          "iata": "MF",
+          "icao": "CXA"
+        },
+        "flight": {
+          "number": "5252",
+          "iata": "MF5252",
+          "icao": "CXA5252",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "6638",
+            "flight_iata": "3u6638",
+            "flight_icao": "csc6638"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chengdu Tianfu International Airport",
+          "timezone": "Asia/Chongqing",
+          "iata": "TFU",
+          "icao": "ZUTF",
+          "terminal": "2",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:00:00+00:00",
+          "estimated": "2024-07-21T21:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Loong Air",
+          "iata": "GJ",
+          "icao": "CDC"
+        },
+        "flight": {
+          "number": "3088",
+          "iata": "GJ3088",
+          "icao": "CDC3088",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "6638",
+            "flight_iata": "3u6638",
+            "flight_icao": "csc6638"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chengdu Tianfu International Airport",
+          "timezone": "Asia/Chongqing",
+          "iata": "TFU",
+          "icao": "ZUTF",
+          "terminal": "2",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:00:00+00:00",
+          "estimated": "2024-07-21T21:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "China Southern Airlines",
+          "iata": "CZ",
+          "icao": "CSN"
+        },
+        "flight": {
+          "number": "9252",
+          "iata": "CZ9252",
+          "icao": "CSN9252",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "6638",
+            "flight_iata": "3u6638",
+            "flight_icao": "csc6638"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:10:00+00:00",
+          "estimated": "2024-07-21T21:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shenzhen Airlines",
+          "iata": "ZH",
+          "icao": "CSZ"
+        },
+        "flight": {
+          "number": "3740",
+          "iata": "ZH3740",
+          "icao": "CSZ3740",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9844",
+            "flight_iata": "tv9844",
+            "flight_icao": "tba9844"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:10:00+00:00",
+          "estimated": "2024-07-21T21:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "6096",
+          "iata": "SC6096",
+          "icao": "CDG6096",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9844",
+            "flight_iata": "tv9844",
+            "flight_icao": "tba9844"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:10:00+00:00",
+          "estimated": "2024-07-21T21:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Kunming Airlines",
+          "iata": "KY",
+          "icao": "KNA"
+        },
+        "flight": {
+          "number": "6844",
+          "iata": "KY6844",
+          "icao": "KNA6844",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9844",
+            "flight_iata": "tv9844",
+            "flight_icao": "tba9844"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:10:00+00:00",
+          "estimated": "2024-07-21T21:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Loong Air",
+          "iata": "GJ",
+          "icao": "CDC"
+        },
+        "flight": {
+          "number": "5496",
+          "iata": "GJ5496",
+          "icao": "CDC5496",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9844",
+            "flight_iata": "tv9844",
+            "flight_icao": "tba9844"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:10:00+00:00",
+          "estimated": "2024-07-21T21:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Chengdu Airlines",
+          "iata": "EU",
+          "icao": "UEA"
+        },
+        "flight": {
+          "number": "7810",
+          "iata": "EU7810",
+          "icao": "UEA7810",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9844",
+            "flight_iata": "tv9844",
+            "flight_icao": "tba9844"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:40:00+00:00",
+          "estimated": "2024-07-21T18:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Chongqing Jiangbei International",
+          "timezone": "Asia/Shanghai",
+          "iata": "CKG",
+          "icao": "ZUCK",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:10:00+00:00",
+          "estimated": "2024-07-21T21:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air China LTD",
+          "iata": "CA",
+          "icao": "CCA"
+        },
+        "flight": {
+          "number": "3948",
+          "iata": "CA3948",
+          "icao": "CCA3948",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9844",
+            "flight_iata": "tv9844",
+            "flight_icao": "tba9844"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "12",
+          "delay": null,
+          "scheduled": "2024-07-21T20:35:00+00:00",
+          "estimated": "2024-07-21T20:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "China Eastern Airlines",
+          "iata": "MU",
+          "icao": "CES"
+        },
+        "flight": {
+          "number": "3446",
+          "iata": "MU3446",
+          "icao": "CES3446",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "8696",
+            "flight_iata": "3u8696",
+            "flight_icao": "csc8696"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "12",
+          "delay": null,
+          "scheduled": "2024-07-21T20:35:00+00:00",
+          "estimated": "2024-07-21T20:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Xiamen Airlines",
+          "iata": "MF",
+          "icao": "CXA"
+        },
+        "flight": {
+          "number": "5540",
+          "iata": "MF5540",
+          "icao": "CXA5540",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "8696",
+            "flight_iata": "3u8696",
+            "flight_icao": "csc8696"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "12",
+          "delay": null,
+          "scheduled": "2024-07-21T20:35:00+00:00",
+          "estimated": "2024-07-21T20:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Juneyao Airlines",
+          "iata": "HO",
+          "icao": "DKH"
+        },
+        "flight": {
+          "number": "5855",
+          "iata": "HO5855",
+          "icao": "DKH5855",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "8696",
+            "flight_iata": "3u8696",
+            "flight_icao": "csc8696"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "12",
+          "delay": null,
+          "scheduled": "2024-07-21T20:35:00+00:00",
+          "estimated": "2024-07-21T20:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Loong Air",
+          "iata": "GJ",
+          "icao": "CDC"
+        },
+        "flight": {
+          "number": "3170",
+          "iata": "GJ3170",
+          "icao": "CDC3170",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "8696",
+            "flight_iata": "3u8696",
+            "flight_icao": "csc8696"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "12",
+          "delay": null,
+          "scheduled": "2024-07-21T20:35:00+00:00",
+          "estimated": "2024-07-21T20:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "China Express Air",
+          "iata": "G5",
+          "icao": "HXA"
+        },
+        "flight": {
+          "number": "6292",
+          "iata": "G56292",
+          "icao": "HXA6292",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "8696",
+            "flight_iata": "3u8696",
+            "flight_icao": "csc8696"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": "B,C",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "12",
+          "delay": null,
+          "scheduled": "2024-07-21T20:35:00+00:00",
+          "estimated": "2024-07-21T20:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "China Southern Airlines",
+          "iata": "CZ",
+          "icao": "CSN"
+        },
+        "flight": {
+          "number": "9540",
+          "iata": "CZ9540",
+          "icao": "CSN9540",
+          "codeshared": {
+            "airline_name": "sichuan airlines",
+            "airline_iata": "3u",
+            "airline_icao": "csc",
+            "flight_number": "8696",
+            "flight_iata": "3u8696",
+            "flight_icao": "csc8696"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:20:00+00:00",
+          "estimated": "2024-07-21T18:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Guiyang",
+          "timezone": "Asia/Shanghai",
+          "iata": "KWE",
+          "icao": "ZUGY",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:05:00+00:00",
+          "estimated": "2024-07-21T21:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shenzhen Airlines",
+          "iata": "ZH",
+          "icao": "CSZ"
+        },
+        "flight": {
+          "number": "3941",
+          "iata": "ZH3941",
+          "icao": "CSZ3941",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9951",
+            "flight_iata": "tv9951",
+            "flight_icao": "tba9951"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Gonggar/Lhasa",
+          "timezone": "Asia/Shanghai",
+          "iata": "LXA",
+          "icao": "ZULS",
+          "terminal": "T3",
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:20:00+00:00",
+          "estimated": "2024-07-21T18:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Guiyang",
+          "timezone": "Asia/Shanghai",
+          "iata": "KWE",
+          "icao": "ZUGY",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T21:05:00+00:00",
+          "estimated": "2024-07-21T21:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "6161",
+          "iata": "SC6161",
+          "icao": "CDG6161",
+          "codeshared": {
+            "airline_name": "tibet airlines",
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "flight_number": "9951",
+            "flight_iata": "tv9951",
+            "flight_icao": "tba9951"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Menara",
+          "timezone": "Africa/Casablanca",
+          "iata": "RAK",
+          "icao": "GMMX",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T11:30:00+00:00",
+          "estimated": "2024-07-21T11:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gatwick",
+          "timezone": "Europe/London",
+          "iata": "LGW",
+          "icao": "EGKK",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T14:49:00+00:00",
+          "estimated": "2024-07-21T14:49:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "TUIfly",
+          "iata": "X3",
+          "icao": "TUI"
+        },
+        "flight": {
+          "number": "517",
+          "iata": "X3517",
+          "icao": "TUI517",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Abbotsford",
+          "timezone": "America/Vancouver",
+          "iata": "YXX",
+          "icao": "CYXX",
+          "terminal": "MA",
+          "gate": "5",
+          "delay": null,
+          "scheduled": "2024-07-21T05:50:00+00:00",
+          "estimated": "2024-07-21T05:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Calgary International Airport",
+          "timezone": "America/Edmonton",
+          "iata": "YYC",
+          "icao": "CYYC",
+          "terminal": null,
+          "gate": "C55",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:04:00+00:00",
+          "estimated": "2024-07-21T08:04:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "WestJet",
+          "iata": "WS",
+          "icao": "WJA"
+        },
+        "flight": {
+          "number": "456",
+          "iata": "WS456",
+          "icao": "WJA456",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Abbotsford",
+          "timezone": "America/Vancouver",
+          "iata": "YXX",
+          "icao": "CYXX",
+          "terminal": "MA",
+          "gate": "5",
+          "delay": null,
+          "scheduled": "2024-07-21T05:50:00+00:00",
+          "estimated": "2024-07-21T05:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Calgary International Airport",
+          "timezone": "America/Edmonton",
+          "iata": "YYC",
+          "icao": "CYYC",
+          "terminal": null,
+          "gate": "C55",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:04:00+00:00",
+          "estimated": "2024-07-21T08:04:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Delta Air Lines",
+          "iata": "DL",
+          "icao": "DAL"
+        },
+        "flight": {
+          "number": "6944",
+          "iata": "DL6944",
+          "icao": "DAL6944",
+          "codeshared": {
+            "airline_name": "westjet",
+            "airline_iata": "ws",
+            "airline_icao": "wja",
+            "flight_number": "456",
+            "flight_iata": "ws456",
+            "flight_icao": "wja456"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Abbotsford",
+          "timezone": "America/Vancouver",
+          "iata": "YXX",
+          "icao": "CYXX",
+          "terminal": "MA",
+          "gate": "5",
+          "delay": null,
+          "scheduled": "2024-07-21T05:50:00+00:00",
+          "estimated": "2024-07-21T05:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Calgary International Airport",
+          "timezone": "America/Edmonton",
+          "iata": "YYC",
+          "icao": "CYYC",
+          "terminal": null,
+          "gate": "C55",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:04:00+00:00",
+          "estimated": "2024-07-21T08:04:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "3424",
+          "iata": "QF3424",
+          "icao": "QFA3424",
+          "codeshared": {
+            "airline_name": "westjet",
+            "airline_iata": "ws",
+            "airline_icao": "wja",
+            "flight_number": "456",
+            "flight_iata": "ws456",
+            "flight_icao": "wja456"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Abbotsford",
+          "timezone": "America/Vancouver",
+          "iata": "YXX",
+          "icao": "CYXX",
+          "terminal": "MA",
+          "gate": "5",
+          "delay": null,
+          "scheduled": "2024-07-21T05:50:00+00:00",
+          "estimated": "2024-07-21T05:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Calgary International Airport",
+          "timezone": "America/Edmonton",
+          "iata": "YYC",
+          "icao": "CYYC",
+          "terminal": null,
+          "gate": "C55",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:04:00+00:00",
+          "estimated": "2024-07-21T08:04:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Delta Air Lines",
+          "iata": "DL",
+          "icao": "DAL"
+        },
+        "flight": {
+          "number": "6915",
+          "iata": "DL6915",
+          "icao": "DAL6915",
+          "codeshared": {
+            "airline_name": "westjet",
+            "airline_iata": "ws",
+            "airline_icao": "wja",
+            "flight_number": "456",
+            "flight_iata": "ws456",
+            "flight_icao": "wja456"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Fair Isle",
+          "timezone": "Europe/London",
+          "iata": "FIE",
+          "icao": "EGEF",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T11:35:00+00:00",
+          "estimated": "2024-07-21T11:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Lerwick/Tingwall",
+          "timezone": "Europe/London",
+          "iata": "LWK",
+          "icao": "EGET",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T12:00:00+00:00",
+          "estimated": "2024-07-21T12:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Directflight Limited",
+          "iata": "DFL",
+          "icao": "DCT"
+        },
+        "flight": {
+          "number": "16",
+          "iata": "DFL16",
+          "icao": "DCT16",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "40",
+          "delay": 8,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Qingdao",
+          "timezone": "Asia/Shanghai",
+          "iata": "TAO",
+          "icao": "ZSQD",
+          "terminal": null,
+          "gate": null,
+          "baggage": "10",
+          "delay": null,
+          "scheduled": "2024-07-21T18:25:00+00:00",
+          "estimated": "2024-07-21T18:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air China LTD",
+          "iata": "CA",
+          "icao": "CCA"
+        },
+        "flight": {
+          "number": "3797",
+          "iata": "CA3797",
+          "icao": "CCA3797",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9917",
+            "flight_iata": "zh9917",
+            "flight_icao": "csz9917"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "35",
+          "delay": 40,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shanghai Pudong International",
+          "timezone": "Asia/Shanghai",
+          "iata": "PVG",
+          "icao": "ZSPD",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "39",
+          "delay": null,
+          "scheduled": "2024-07-21T17:40:00+00:00",
+          "estimated": "2024-07-21T17:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "9217",
+          "iata": "SC9217",
+          "icao": "CDG9217",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9513",
+            "flight_iata": "zh9513",
+            "flight_icao": "csz9513"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "35",
+          "delay": 40,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shanghai Pudong International",
+          "timezone": "Asia/Shanghai",
+          "iata": "PVG",
+          "icao": "ZSPD",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "39",
+          "delay": null,
+          "scheduled": "2024-07-21T17:40:00+00:00",
+          "estimated": "2024-07-21T17:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Juneyao Airlines",
+          "iata": "HO",
+          "icao": "DKH"
+        },
+        "flight": {
+          "number": "5152",
+          "iata": "HO5152",
+          "icao": "DKH5152",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9513",
+            "flight_iata": "zh9513",
+            "flight_icao": "csz9513"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "35",
+          "delay": 40,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shanghai Pudong International",
+          "timezone": "Asia/Shanghai",
+          "iata": "PVG",
+          "icao": "ZSPD",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "39",
+          "delay": null,
+          "scheduled": "2024-07-21T17:40:00+00:00",
+          "estimated": "2024-07-21T17:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air China LTD",
+          "iata": "CA",
+          "icao": "CCA"
+        },
+        "flight": {
+          "number": "3813",
+          "iata": "CA3813",
+          "icao": "CCA3813",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9513",
+            "flight_iata": "zh9513",
+            "flight_icao": "csz9513"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "G,H",
+          "delay": null,
+          "scheduled": "2024-07-21T15:00:00+00:00",
+          "estimated": "2024-07-21T15:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Beijing Capital International",
+          "timezone": "Asia/Shanghai",
+          "iata": "PEK",
+          "icao": "ZBAA",
+          "terminal": "3",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T18:10:00+00:00",
+          "estimated": "2024-07-21T18:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shenzhen Airlines",
+          "iata": "ZH",
+          "icao": "CSZ"
+        },
+        "flight": {
+          "number": "1384",
+          "iata": "ZH1384",
+          "icao": "CSZ1384",
+          "codeshared": {
+            "airline_name": "air china ltd",
+            "airline_iata": "ca",
+            "airline_icao": "cca",
+            "flight_number": "1384",
+            "flight_iata": "ca1384",
+            "flight_icao": "cca1384"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "active",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "547",
+          "delay": 35,
+          "scheduled": "2024-07-21T14:50:00+00:00",
+          "estimated": "2024-07-21T14:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shanghai Pudong International",
+          "timezone": "Asia/Shanghai",
+          "iata": "PVG",
+          "icao": "ZSPD",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "36",
+          "delay": null,
+          "scheduled": "2024-07-21T17:20:00+00:00",
+          "estimated": "2024-07-21T17:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "9225",
+          "iata": "SC9225",
+          "icao": "CDG9225",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9525",
+            "flight_iata": "zh9525",
+            "flight_icao": "csz9525"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "active",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "547",
+          "delay": 35,
+          "scheduled": "2024-07-21T14:50:00+00:00",
+          "estimated": "2024-07-21T14:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shanghai Pudong International",
+          "timezone": "Asia/Shanghai",
+          "iata": "PVG",
+          "icao": "ZSPD",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "36",
+          "delay": null,
+          "scheduled": "2024-07-21T17:20:00+00:00",
+          "estimated": "2024-07-21T17:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Juneyao Airlines",
+          "iata": "HO",
+          "icao": "DKH"
+        },
+        "flight": {
+          "number": "5158",
+          "iata": "HO5158",
+          "icao": "DKH5158",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9525",
+            "flight_iata": "zh9525",
+            "flight_icao": "csz9525"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "active",
+        "departure": {
+          "airport": "Shenzhen",
+          "timezone": "Asia/Shanghai",
+          "iata": "SZX",
+          "icao": "ZGSZ",
+          "terminal": "T3",
+          "gate": "63",
+          "delay": 35,
+          "scheduled": "2024-07-21T14:45:00+00:00",
+          "estimated": "2024-07-21T14:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Shuangliu",
+          "timezone": "Asia/Shanghai",
+          "iata": "CTU",
+          "icao": "ZUUU",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "19",
+          "delay": null,
+          "scheduled": "2024-07-21T17:15:00+00:00",
+          "estimated": "2024-07-21T17:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Shandong Airlines",
+          "iata": "SC",
+          "icao": "CDG"
+        },
+        "flight": {
+          "number": "9467",
+          "iata": "SC9467",
+          "icao": "CDG9467",
+          "codeshared": {
+            "airline_name": "shenzhen airlines",
+            "airline_iata": "zh",
+            "airline_icao": "csz",
+            "flight_number": "9407",
+            "flight_iata": "zh9407",
+            "flight_icao": "csz9407"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Owen Roberts International",
+          "timezone": "America/Cayman",
+          "iata": "GCM",
+          "icao": "MWCR",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T07:25:00+00:00",
+          "estimated": "2024-07-21T07:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gerrard-Smith",
+          "timezone": "America/Cayman",
+          "iata": "CYB",
+          "icao": "MWCB",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:05:00+00:00",
+          "estimated": "2024-07-21T08:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Cayman Airways",
+          "iata": "KX",
+          "icao": "CAY"
+        },
+        "flight": {
+          "number": "4003",
+          "iata": "KX4003",
+          "icao": "CAY4003",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Little Cayman",
+          "timezone": "America/Cayman",
+          "iata": "LYB",
+          "icao": "MWCL",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2024-07-21T07:50:00+00:00",
+          "estimated": "2024-07-21T07:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Gerrard-Smith",
+          "timezone": "America/Cayman",
+          "iata": "CYB",
+          "icao": "MWCB",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:00:00+00:00",
+          "estimated": "2024-07-21T08:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Cayman Airways",
+          "iata": "KX",
+          "icao": "CAY"
+        },
+        "flight": {
+          "number": "4420",
+          "iata": "KX4420",
+          "icao": "CAY4420",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C28",
+          "delay": null,
+          "scheduled": "2024-07-21T07:00:00+00:00",
+          "estimated": "2024-07-21T07:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C24",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:45:00+00:00",
+          "estimated": "2024-07-21T08:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "TAP Air Portugal",
+          "iata": "TP",
+          "icao": "TAP"
+        },
+        "flight": {
+          "number": "4281",
+          "iata": "TP4281",
+          "icao": "TAP4281",
+          "codeshared": {
+            "airline_name": "jetblue airways",
+            "airline_iata": "b6",
+            "airline_icao": "jbu",
+            "flight_number": "455",
+            "flight_iata": "b6455",
+            "flight_icao": "jbu455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C28",
+          "delay": null,
+          "scheduled": "2024-07-21T07:00:00+00:00",
+          "estimated": "2024-07-21T07:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C24",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:45:00+00:00",
+          "estimated": "2024-07-21T08:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Hawaiian Airlines",
+          "iata": "HA",
+          "icao": "HAL"
+        },
+        "flight": {
+          "number": "2407",
+          "iata": "HA2407",
+          "icao": "HAL2407",
+          "codeshared": {
+            "airline_name": "jetblue airways",
+            "airline_iata": "b6",
+            "airline_icao": "jbu",
+            "flight_number": "455",
+            "flight_iata": "b6455",
+            "flight_icao": "jbu455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C28",
+          "delay": null,
+          "scheduled": "2024-07-21T07:00:00+00:00",
+          "estimated": "2024-07-21T07:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C24",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T08:45:00+00:00",
+          "estimated": "2024-07-21T08:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Icelandair",
+          "iata": "FI",
+          "icao": "ICE"
+        },
+        "flight": {
+          "number": "7825",
+          "iata": "FI7825",
+          "icao": "ICE7825",
+          "codeshared": {
+            "airline_name": "jetblue airways",
+            "airline_iata": "b6",
+            "airline_icao": "jbu",
+            "flight_number": "455",
+            "flight_iata": "b6455",
+            "flight_icao": "jbu455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B21",
+          "delay": 23,
+          "scheduled": "2024-07-21T09:00:00+00:00",
+          "estimated": "2024-07-21T09:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Hartsfield-jackson Atlanta International",
+          "timezone": "America/New_York",
+          "iata": "ATL",
+          "icao": "KATL",
+          "terminal": "S",
+          "gate": "T4",
+          "baggage": "1",
+          "delay": null,
+          "scheduled": "2024-07-21T10:55:00+00:00",
+          "estimated": "2024-07-21T10:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Delta Air Lines",
+          "iata": "DL",
+          "icao": "DAL"
+        },
+        "flight": {
+          "number": "455",
+          "iata": "DL455",
+          "icao": "DAL455",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B21",
+          "delay": 23,
+          "scheduled": "2024-07-21T09:00:00+00:00",
+          "estimated": "2024-07-21T09:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Hartsfield-jackson Atlanta International",
+          "timezone": "America/New_York",
+          "iata": "ATL",
+          "icao": "KATL",
+          "terminal": "S",
+          "gate": "T4",
+          "baggage": "1",
+          "delay": null,
+          "scheduled": "2024-07-21T10:55:00+00:00",
+          "estimated": "2024-07-21T10:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Korean Air",
+          "iata": "KE",
+          "icao": "KAL"
+        },
+        "flight": {
+          "number": "3703",
+          "iata": "KE3703",
+          "icao": "KAL3703",
+          "codeshared": {
+            "airline_name": "delta air lines",
+            "airline_iata": "dl",
+            "airline_icao": "dal",
+            "flight_number": "455",
+            "flight_iata": "dl455",
+            "flight_icao": "dal455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B21",
+          "delay": 23,
+          "scheduled": "2024-07-21T09:00:00+00:00",
+          "estimated": "2024-07-21T09:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Hartsfield-jackson Atlanta International",
+          "timezone": "America/New_York",
+          "iata": "ATL",
+          "icao": "KATL",
+          "terminal": "S",
+          "gate": "T4",
+          "baggage": "1",
+          "delay": null,
+          "scheduled": "2024-07-21T10:55:00+00:00",
+          "estimated": "2024-07-21T10:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Aeromexico",
+          "iata": "AM",
+          "icao": "AMX"
+        },
+        "flight": {
+          "number": "3581",
+          "iata": "AM3581",
+          "icao": "AMX3581",
+          "codeshared": {
+            "airline_name": "delta air lines",
+            "airline_iata": "dl",
+            "airline_icao": "dal",
+            "flight_number": "455",
+            "flight_iata": "dl455",
+            "flight_icao": "dal455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C32",
+          "delay": null,
+          "scheduled": "2024-07-21T09:00:00+00:00",
+          "estimated": "2024-07-21T09:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Dallas/Fort Worth International",
+          "timezone": "America/Chicago",
+          "iata": "DFW",
+          "icao": "KDFW",
+          "terminal": "C",
+          "gate": "C14",
+          "baggage": "C12",
+          "delay": null,
+          "scheduled": "2024-07-21T11:28:00+00:00",
+          "estimated": "2024-07-21T11:28:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "796",
+          "iata": "AA796",
+          "icao": "AAL796",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D39",
+          "delay": null,
+          "scheduled": "2024-07-21T08:59:00+00:00",
+          "estimated": "2024-07-21T08:59:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "B",
+          "gate": "B14",
+          "baggage": "3",
+          "delay": null,
+          "scheduled": "2024-07-21T10:51:00+00:00",
+          "estimated": "2024-07-21T10:51:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "897",
+          "iata": "AA897",
+          "icao": "AAL897",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E46",
+          "delay": null,
+          "scheduled": "2024-07-21T08:58:00+00:00",
+          "estimated": "2024-07-21T08:58:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Mc Ghee Tyson",
+          "timezone": "America/New_York",
+          "iata": "TYS",
+          "icao": "KTYS",
+          "terminal": null,
+          "gate": "10",
+          "baggage": "3",
+          "delay": null,
+          "scheduled": "2024-07-21T10:51:00+00:00",
+          "estimated": "2024-07-21T10:51:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5207",
+          "iata": "AA5207",
+          "icao": "AAL5207",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D44A",
+          "delay": null,
+          "scheduled": "2024-07-21T08:52:00+00:00",
+          "estimated": "2024-07-21T08:52:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Pensacola International Airport",
+          "timezone": "America/Chicago",
+          "iata": "PNS",
+          "icao": "KPNS",
+          "terminal": null,
+          "gate": "6",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:30:00+00:00",
+          "estimated": "2024-07-21T10:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5647",
+          "iata": "AA5647",
+          "icao": "AAL5647",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D37",
+          "delay": null,
+          "scheduled": "2024-07-21T08:41:00+00:00",
+          "estimated": "2024-07-21T08:41:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Hilton Head",
+          "timezone": "America/New_York",
+          "iata": "HHH",
+          "icao": "KHXD",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:43:00+00:00",
+          "estimated": "2024-07-21T10:43:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "3891",
+          "iata": "AA3891",
+          "icao": "AAL3891",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D42",
+          "delay": null,
+          "scheduled": "2024-07-21T08:41:00+00:00",
+          "estimated": "2024-07-21T08:41:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Charleston, AFB Municipal",
+          "timezone": "America/New_York",
+          "iata": "CHS",
+          "icao": "KCHS",
+          "terminal": null,
+          "gate": "B7",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:40:00+00:00",
+          "estimated": "2024-07-21T10:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "1466",
+          "iata": "AA1466",
+          "icao": "AAL1466",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "1",
+          "gate": "A4",
+          "delay": null,
+          "scheduled": "2024-07-21T08:40:00+00:00",
+          "estimated": "2024-07-21T08:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Midway",
+          "timezone": "America/Chicago",
+          "iata": "MDW",
+          "icao": "KMDW",
+          "terminal": null,
+          "gate": "B26",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T09:45:00+00:00",
+          "estimated": "2024-07-21T09:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Southwest Airlines",
+          "iata": "WN",
+          "icao": "SWA"
+        },
+        "flight": {
+          "number": "3984",
+          "iata": "WN3984",
+          "icao": "SWA3984",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B15",
+          "delay": 23,
+          "scheduled": "2024-07-21T08:40:00+00:00",
+          "estimated": "2024-07-21T08:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Eppley Airfield",
+          "timezone": "America/Chicago",
+          "iata": "OMA",
+          "icao": "KOMA",
+          "terminal": null,
+          "gate": "A5",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:39:00+00:00",
+          "estimated": "2024-07-21T10:39:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Delta Air Lines",
+          "iata": "DL",
+          "icao": "DAL"
+        },
+        "flight": {
+          "number": "5608",
+          "iata": "DL5608",
+          "icao": "DAL5608",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E50",
+          "delay": null,
+          "scheduled": "2024-07-21T08:39:00+00:00",
+          "estimated": "2024-07-21T08:39:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Pittsburgh International",
+          "timezone": "America/New_York",
+          "iata": "PIT",
+          "icao": "KPIT",
+          "terminal": null,
+          "gate": "B26",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:01:00+00:00",
+          "estimated": "2024-07-21T10:01:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5165",
+          "iata": "AA5165",
+          "icao": "AAL5165",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D43B",
+          "delay": null,
+          "scheduled": "2024-07-21T08:39:00+00:00",
+          "estimated": "2024-07-21T08:39:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Memphis International",
+          "timezone": "America/Chicago",
+          "iata": "MEM",
+          "icao": "KMEM",
+          "terminal": null,
+          "gate": "8",
+          "baggage": "3",
+          "delay": null,
+          "scheduled": "2024-07-21T10:10:00+00:00",
+          "estimated": "2024-07-21T10:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5080",
+          "iata": "AA5080",
+          "icao": "AAL5080",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E47",
+          "delay": null,
+          "scheduled": "2024-07-21T08:35:00+00:00",
+          "estimated": "2024-07-21T08:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "International Jetport",
+          "timezone": "America/New_York",
+          "iata": "PWM",
+          "icao": "KPWM",
+          "terminal": null,
+          "gate": "10",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:21:00+00:00",
+          "estimated": "2024-07-21T10:21:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5250",
+          "iata": "AA5250",
+          "icao": "AAL5250",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E55",
+          "delay": null,
+          "scheduled": "2024-07-21T08:35:00+00:00",
+          "estimated": "2024-07-21T08:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Savannah/Hilton Head",
+          "timezone": "America/New_York",
+          "iata": "SAV",
+          "icao": "KSAV",
+          "terminal": null,
+          "gate": "10",
+          "baggage": "4",
+          "delay": null,
+          "scheduled": "2024-07-21T10:33:00+00:00",
+          "estimated": "2024-07-21T10:33:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5178",
+          "iata": "AA5178",
+          "icao": "AAL5178",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C34",
+          "delay": null,
+          "scheduled": "2024-07-21T08:35:00+00:00",
+          "estimated": "2024-07-21T08:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Tampa International",
+          "timezone": "America/New_York",
+          "iata": "TPA",
+          "icao": "KTPA",
+          "terminal": null,
+          "gate": "F81",
+          "baggage": "5",
+          "delay": null,
+          "scheduled": "2024-07-21T10:59:00+00:00",
+          "estimated": "2024-07-21T10:59:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "1863",
+          "iata": "AA1863",
+          "icao": "AAL1863",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C30",
+          "delay": null,
+          "scheduled": "2024-07-21T08:30:00+00:00",
+          "estimated": "2024-07-21T08:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C34",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T10:06:00+00:00",
+          "estimated": "2024-07-21T10:06:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "JetBlue Airways",
+          "iata": "B6",
+          "icao": "JBU"
+        },
+        "flight": {
+          "number": "1954",
+          "iata": "B61954",
+          "icao": "JBU1954",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C30",
+          "delay": null,
+          "scheduled": "2024-07-21T08:30:00+00:00",
+          "estimated": "2024-07-21T08:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C34",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T10:06:00+00:00",
+          "estimated": "2024-07-21T10:06:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Qatar Airways",
+          "iata": "QR",
+          "icao": "QTR"
+        },
+        "flight": {
+          "number": "3952",
+          "iata": "QR3952",
+          "icao": "QTR3952",
+          "codeshared": {
+            "airline_name": "jetblue airways",
+            "airline_iata": "b6",
+            "airline_icao": "jbu",
+            "flight_number": "1954",
+            "flight_iata": "b61954",
+            "flight_icao": "jbu1954"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C30",
+          "delay": null,
+          "scheduled": "2024-07-21T08:30:00+00:00",
+          "estimated": "2024-07-21T08:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C34",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T10:06:00+00:00",
+          "estimated": "2024-07-21T10:06:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Hawaiian Airlines",
+          "iata": "HA",
+          "icao": "HAL"
+        },
+        "flight": {
+          "number": "2406",
+          "iata": "HA2406",
+          "icao": "HAL2406",
+          "codeshared": {
+            "airline_name": "jetblue airways",
+            "airline_iata": "b6",
+            "airline_icao": "jbu",
+            "flight_number": "1954",
+            "flight_iata": "b61954",
+            "flight_icao": "jbu1954"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C30",
+          "delay": null,
+          "scheduled": "2024-07-21T08:30:00+00:00",
+          "estimated": "2024-07-21T08:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Logan International",
+          "timezone": "America/New_York",
+          "iata": "BOS",
+          "icao": "KBOS",
+          "terminal": "C",
+          "gate": "C34",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T10:06:00+00:00",
+          "estimated": "2024-07-21T10:06:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Icelandair",
+          "iata": "FI",
+          "icao": "ICE"
+        },
+        "flight": {
+          "number": "7826",
+          "iata": "FI7826",
+          "icao": "ICE7826",
+          "codeshared": {
+            "airline_name": "jetblue airways",
+            "airline_iata": "b6",
+            "airline_icao": "jbu",
+            "flight_number": "1954",
+            "flight_iata": "b61954",
+            "flight_icao": "jbu1954"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E52",
+          "delay": null,
+          "scheduled": "2024-07-21T08:29:00+00:00",
+          "estimated": "2024-07-21T08:29:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Eglin AFB",
+          "timezone": "America/Chicago",
+          "iata": "VPS",
+          "icao": "KVPS",
+          "terminal": null,
+          "gate": "B6",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:00:00+00:00",
+          "estimated": "2024-07-21T10:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5462",
+          "iata": "AA5462",
+          "icao": "AAL5462",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D45",
+          "delay": null,
+          "scheduled": "2024-07-21T08:29:00+00:00",
+          "estimated": "2024-07-21T08:29:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Southwest Florida International",
+          "timezone": "America/New_York",
+          "iata": "RSW",
+          "icao": "KRSW",
+          "terminal": null,
+          "gate": "D5",
+          "baggage": "9",
+          "delay": null,
+          "scheduled": "2024-07-21T11:10:00+00:00",
+          "estimated": "2024-07-21T11:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "2019",
+          "iata": "AA2019",
+          "icao": "AAL2019",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C33",
+          "delay": null,
+          "scheduled": "2024-07-21T08:29:00+00:00",
+          "estimated": "2024-07-21T08:29:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Orlando International",
+          "timezone": "America/New_York",
+          "iata": "MCO",
+          "icao": "KMCO",
+          "terminal": "B",
+          "gate": "58",
+          "baggage": "25",
+          "delay": null,
+          "scheduled": "2024-07-21T10:48:00+00:00",
+          "estimated": "2024-07-21T10:48:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "1787",
+          "iata": "AA1787",
+          "icao": "AAL1787",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C25",
+          "delay": null,
+          "scheduled": "2024-07-21T08:27:00+00:00",
+          "estimated": "2024-07-21T08:27:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Los Angeles International",
+          "timezone": "America/Los_Angeles",
+          "iata": "LAX",
+          "icao": "KLAX",
+          "terminal": "4",
+          "gate": "42A",
+          "baggage": "T4A",
+          "delay": null,
+          "scheduled": "2024-07-21T10:49:00+00:00",
+          "estimated": "2024-07-21T10:49:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "1528",
+          "iata": "AA1528",
+          "icao": "AAL1528",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C25",
+          "delay": null,
+          "scheduled": "2024-07-21T08:27:00+00:00",
+          "estimated": "2024-07-21T08:27:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Los Angeles International",
+          "timezone": "America/Los_Angeles",
+          "iata": "LAX",
+          "icao": "KLAX",
+          "terminal": "4",
+          "gate": "42A",
+          "baggage": "T4A",
+          "delay": null,
+          "scheduled": "2024-07-21T10:49:00+00:00",
+          "estimated": "2024-07-21T10:49:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air Tahiti Nui",
+          "iata": "TN",
+          "icao": "THT"
+        },
+        "flight": {
+          "number": "1231",
+          "iata": "TN1231",
+          "icao": "THT1231",
+          "codeshared": {
+            "airline_name": "american airlines",
+            "airline_iata": "aa",
+            "airline_icao": "aal",
+            "flight_number": "1528",
+            "flight_iata": "aa1528",
+            "flight_icao": "aal1528"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C25",
+          "delay": null,
+          "scheduled": "2024-07-21T08:27:00+00:00",
+          "estimated": "2024-07-21T08:27:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Los Angeles International",
+          "timezone": "America/Los_Angeles",
+          "iata": "LAX",
+          "icao": "KLAX",
+          "terminal": "4",
+          "gate": "42A",
+          "baggage": "T4A",
+          "delay": null,
+          "scheduled": "2024-07-21T10:49:00+00:00",
+          "estimated": "2024-07-21T10:49:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "4300",
+          "iata": "QF4300",
+          "icao": "QFA4300",
+          "codeshared": {
+            "airline_name": "american airlines",
+            "airline_iata": "aa",
+            "airline_icao": "aal",
+            "flight_number": "1528",
+            "flight_iata": "aa1528",
+            "flight_icao": "aal1528"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C25",
+          "delay": null,
+          "scheduled": "2024-07-21T08:27:00+00:00",
+          "estimated": "2024-07-21T08:27:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Los Angeles International",
+          "timezone": "America/Los_Angeles",
+          "iata": "LAX",
+          "icao": "KLAX",
+          "terminal": "4",
+          "gate": "42A",
+          "baggage": "T4A",
+          "delay": null,
+          "scheduled": "2024-07-21T10:49:00+00:00",
+          "estimated": "2024-07-21T10:49:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Philippine Airlines",
+          "iata": "PR",
+          "icao": "PAL"
+        },
+        "flight": {
+          "number": "3909",
+          "iata": "PR3909",
+          "icao": "PAL3909",
+          "codeshared": {
+            "airline_name": "american airlines",
+            "airline_iata": "aa",
+            "airline_icao": "aal",
+            "flight_number": "1528",
+            "flight_iata": "aa1528",
+            "flight_icao": "aal1528"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C25",
+          "delay": null,
+          "scheduled": "2024-07-21T08:27:00+00:00",
+          "estimated": "2024-07-21T08:27:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Los Angeles International",
+          "timezone": "America/Los_Angeles",
+          "iata": "LAX",
+          "icao": "KLAX",
+          "terminal": "4",
+          "gate": "42A",
+          "baggage": "T4A",
+          "delay": null,
+          "scheduled": "2024-07-21T10:49:00+00:00",
+          "estimated": "2024-07-21T10:49:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Jet Linx Aviation",
+          "iata": "JL",
+          "icao": "JTL"
+        },
+        "flight": {
+          "number": "7602",
+          "iata": "JL7602",
+          "icao": "JTL7602",
+          "codeshared": {
+            "airline_name": "american airlines",
+            "airline_iata": "aa",
+            "airline_icao": "aal",
+            "flight_number": "1528",
+            "flight_iata": "aa1528",
+            "flight_icao": "aal1528"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B10C",
+          "delay": null,
+          "scheduled": "2024-07-21T08:25:00+00:00",
+          "estimated": "2024-07-21T08:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Newark Liberty International",
+          "timezone": "America/New_York",
+          "iata": "EWR",
+          "icao": "KEWR",
+          "terminal": "C",
+          "gate": "109",
+          "baggage": "8",
+          "delay": null,
+          "scheduled": "2024-07-21T09:47:00+00:00",
+          "estimated": "2024-07-21T09:47:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "United Airlines",
+          "iata": "UA",
+          "icao": "UAL"
+        },
+        "flight": {
+          "number": "4430",
+          "iata": "UA4430",
+          "icao": "UAL4430",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E52",
+          "delay": null,
+          "scheduled": "2024-07-21T08:25:00+00:00",
+          "estimated": "2024-07-21T08:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Louis Armstrong New Orléans International Airport",
+          "timezone": "America/Chicago",
+          "iata": "MSY",
+          "icao": "KMSY",
+          "terminal": null,
+          "gate": "B12",
+          "baggage": "4",
+          "delay": null,
+          "scheduled": "2024-07-21T10:13:00+00:00",
+          "estimated": "2024-07-21T10:13:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5416",
+          "iata": "AA5416",
+          "icao": "AAL5416",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D40",
+          "delay": null,
+          "scheduled": "2024-07-21T08:25:00+00:00",
+          "estimated": "2024-07-21T08:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Nassau International",
+          "timezone": "America/Nassau",
+          "iata": "NAS",
+          "icao": "MYNN",
+          "terminal": "B",
+          "gate": "C42",
+          "baggage": "BA1",
+          "delay": null,
+          "scheduled": "2024-07-21T11:11:00+00:00",
+          "estimated": "2024-07-21T11:11:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "2106",
+          "iata": "AA2106",
+          "icao": "AAL2106",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E49",
+          "delay": null,
+          "scheduled": "2024-07-21T08:24:00+00:00",
+          "estimated": "2024-07-21T08:24:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Myrtle Beach AFB",
+          "timezone": "America/New_York",
+          "iata": "MYR",
+          "icao": "KMYR",
+          "terminal": null,
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T09:59:00+00:00",
+          "estimated": "2024-07-21T09:59:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5674",
+          "iata": "AA5674",
+          "icao": "AAL5674",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D43A",
+          "delay": null,
+          "scheduled": "2024-07-21T08:23:00+00:00",
+          "estimated": "2024-07-21T08:23:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Wilmington International",
+          "timezone": "America/New_York",
+          "iata": "ILM",
+          "icao": "KILM",
+          "terminal": null,
+          "gate": "1",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T09:53:00+00:00",
+          "estimated": "2024-07-21T09:53:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5183",
+          "iata": "AA5183",
+          "icao": "AAL5183",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E56",
+          "delay": null,
+          "scheduled": "2024-07-21T08:23:00+00:00",
+          "estimated": "2024-07-21T08:23:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Charlotte Douglas",
+          "timezone": "America/New_York",
+          "iata": "CLT",
+          "icao": "KCLT",
+          "terminal": null,
+          "gate": "E31",
+          "baggage": "E",
+          "delay": null,
+          "scheduled": "2024-07-21T10:03:00+00:00",
+          "estimated": "2024-07-21T10:03:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5064",
+          "iata": "AA5064",
+          "icao": "AAL5064",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E48",
+          "delay": null,
+          "scheduled": "2024-07-21T08:23:00+00:00",
+          "estimated": "2024-07-21T08:23:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Hartsfield-jackson Atlanta International",
+          "timezone": "America/New_York",
+          "iata": "ATL",
+          "icao": "KATL",
+          "terminal": "N",
+          "gate": "T9",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T10:25:00+00:00",
+          "estimated": "2024-07-21T10:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "4421",
+          "iata": "AA4421",
+          "icao": "AAL4421",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D44B",
+          "delay": null,
+          "scheduled": "2024-07-21T08:21:00+00:00",
+          "estimated": "2024-07-21T08:21:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Norfolk International Airport",
+          "timezone": "America/New_York",
+          "iata": "ORF",
+          "icao": "KORF",
+          "terminal": null,
+          "gate": "A6",
+          "baggage": "3",
+          "delay": null,
+          "scheduled": "2024-07-21T09:23:00+00:00",
+          "estimated": "2024-07-21T09:23:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5509",
+          "iata": "AA5509",
+          "icao": "AAL5509",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B12",
+          "delay": null,
+          "scheduled": "2024-07-21T08:20:00+00:00",
+          "estimated": "2024-07-21T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "George Bush Intercontinental",
+          "timezone": "America/Chicago",
+          "iata": "IAH",
+          "icao": "KIAH",
+          "terminal": "C",
+          "gate": "42",
+          "baggage": "C3",
+          "delay": null,
+          "scheduled": "2024-07-21T10:34:00+00:00",
+          "estimated": "2024-07-21T10:34:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "United Airlines",
+          "iata": "UA",
+          "icao": "UAL"
+        },
+        "flight": {
+          "number": "697",
+          "iata": "UA697",
+          "icao": "UAL697",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B12",
+          "delay": null,
+          "scheduled": "2024-07-21T08:20:00+00:00",
+          "estimated": "2024-07-21T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "George Bush Intercontinental",
+          "timezone": "America/Chicago",
+          "iata": "IAH",
+          "icao": "KIAH",
+          "terminal": "C",
+          "gate": "42",
+          "baggage": "C3",
+          "delay": null,
+          "scheduled": "2024-07-21T10:34:00+00:00",
+          "estimated": "2024-07-21T10:34:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air New Zealand",
+          "iata": "NZ",
+          "icao": "ANZ"
+        },
+        "flight": {
+          "number": "6484",
+          "iata": "NZ6484",
+          "icao": "ANZ6484",
+          "codeshared": {
+            "airline_name": "united airlines",
+            "airline_iata": "ua",
+            "airline_icao": "ual",
+            "flight_number": "697",
+            "flight_iata": "ua697",
+            "flight_icao": "ual697"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E57",
+          "delay": null,
+          "scheduled": "2024-07-21T08:20:00+00:00",
+          "estimated": "2024-07-21T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Raleigh-durham International Airport",
+          "timezone": "America/New_York",
+          "iata": "RDU",
+          "icao": "KRDU",
+          "terminal": "2",
+          "gate": "C18",
+          "baggage": "4",
+          "delay": null,
+          "scheduled": "2024-07-21T09:40:00+00:00",
+          "estimated": "2024-07-21T09:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5545",
+          "iata": "AA5545",
+          "icao": "AAL5545",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "E51",
+          "delay": null,
+          "scheduled": "2024-07-21T08:20:00+00:00",
+          "estimated": "2024-07-21T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Asheville Regional Airport",
+          "timezone": "America/New_York",
+          "iata": "AVL",
+          "icao": "KAVL",
+          "terminal": null,
+          "gate": "2",
+          "baggage": "1",
+          "delay": null,
+          "scheduled": "2024-07-21T10:00:00+00:00",
+          "estimated": "2024-07-21T10:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "5446",
+          "iata": "AA5446",
+          "icao": "AAL5446",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D38",
+          "delay": null,
+          "scheduled": "2024-07-21T08:20:00+00:00",
+          "estimated": "2024-07-21T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Key West International Airport",
+          "timezone": "America/New_York",
+          "iata": "EYW",
+          "icao": "KEYW",
+          "terminal": null,
+          "gate": "7",
+          "baggage": "1",
+          "delay": null,
+          "scheduled": "2024-07-21T11:20:00+00:00",
+          "estimated": "2024-07-21T11:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "4332",
+          "iata": "AA4332",
+          "icao": "AAL4332",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "D36",
+          "delay": null,
+          "scheduled": "2024-07-21T08:20:00+00:00",
+          "estimated": "2024-07-21T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Sarasota/Bradenton International",
+          "timezone": "America/New_York",
+          "iata": "SRQ",
+          "icao": "KSRQ",
+          "terminal": null,
+          "gate": "B3",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T10:55:00+00:00",
+          "estimated": "2024-07-21T10:55:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "American Airlines",
+          "iata": "AA",
+          "icao": "AAL"
+        },
+        "flight": {
+          "number": "2584",
+          "iata": "AA2584",
+          "icao": "AAL2584",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "C26",
+          "delay": null,
+          "scheduled": "2024-07-21T08:15:00+00:00",
+          "estimated": "2024-07-21T08:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Luis Munoz Marin International",
+          "timezone": "America/Puerto_Rico",
+          "iata": "SJU",
+          "icao": "TJSJ",
+          "terminal": "A",
+          "gate": "3",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T12:07:00+00:00",
+          "estimated": "2024-07-21T12:07:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "JetBlue Airways",
+          "iata": "B6",
+          "icao": "JBU"
+        },
+        "flight": {
+          "number": "1347",
+          "iata": "B61347",
+          "icao": "JBU1347",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B18",
+          "delay": 68,
+          "scheduled": "2024-07-21T08:12:00+00:00",
+          "estimated": "2024-07-21T08:12:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Minneapolis - St. Paul International",
+          "timezone": "America/Chicago",
+          "iata": "MSP",
+          "icao": "KMSP",
+          "terminal": "1",
+          "gate": "C7",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T09:59:00+00:00",
+          "estimated": "2024-07-21T09:59:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Delta Air Lines",
+          "iata": "DL",
+          "icao": "DAL"
+        },
+        "flight": {
+          "number": "1493",
+          "iata": "DL1493",
+          "icao": "DAL1493",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B18",
+          "delay": 68,
+          "scheduled": "2024-07-21T08:12:00+00:00",
+          "estimated": "2024-07-21T08:12:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Minneapolis - St. Paul International",
+          "timezone": "America/Chicago",
+          "iata": "MSP",
+          "icao": "KMSP",
+          "terminal": "1",
+          "gate": "C7",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T09:59:00+00:00",
+          "estimated": "2024-07-21T09:59:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "WestJet",
+          "iata": "WS",
+          "icao": "WJA"
+        },
+        "flight": {
+          "number": "6746",
+          "iata": "WS6746",
+          "icao": "WJA6746",
+          "codeshared": {
+            "airline_name": "delta air lines",
+            "airline_iata": "dl",
+            "airline_icao": "dal",
+            "flight_number": "1493",
+            "flight_iata": "dl1493",
+            "flight_icao": "dal1493"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Ronald Reagan Washington National Airport",
+          "timezone": "America/New_York",
+          "iata": "DCA",
+          "icao": "KDCA",
+          "terminal": "2",
+          "gate": "B18",
+          "delay": 68,
+          "scheduled": "2024-07-21T08:12:00+00:00",
+          "estimated": "2024-07-21T08:12:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Minneapolis - St. Paul International",
+          "timezone": "America/Chicago",
+          "iata": "MSP",
+          "icao": "KMSP",
+          "terminal": "1",
+          "gate": "C7",
+          "baggage": "7",
+          "delay": null,
+          "scheduled": "2024-07-21T09:59:00+00:00",
+          "estimated": "2024-07-21T09:59:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Virgin Atlantic",
+          "iata": "VS",
+          "icao": "VIR"
+        },
+        "flight": {
+          "number": "3323",
+          "iata": "VS3323",
+          "icao": "VIR3323",
+          "codeshared": {
+            "airline_name": "delta air lines",
+            "airline_iata": "dl",
+            "airline_icao": "dal",
+            "flight_number": "1493",
+            "flight_iata": "dl1493",
+            "flight_icao": "dal1493"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Zunyi Maotai Airport\r\n",
+          "timezone": null,
+          "iata": "WMT",
+          "icao": "ZUMT",
+          "terminal": null,
+          "gate": "2-6",
+          "delay": null,
+          "scheduled": "2024-07-21T14:45:00+00:00",
+          "estimated": "2024-07-21T14:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Tianhe International",
+          "timezone": "Asia/Shanghai",
+          "iata": "WUH",
+          "icao": "ZHHH",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "6",
+          "delay": null,
+          "scheduled": "2024-07-21T16:25:00+00:00",
+          "estimated": "2024-07-21T16:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Hebei Airlines",
+          "iata": "NS",
+          "icao": "HBH"
+        },
+        "flight": {
+          "number": "8902",
+          "iata": "NS8902",
+          "icao": "HBH8902",
+          "codeshared": {
+            "airline_name": "xiamen airlines",
+            "airline_iata": "mf",
+            "airline_icao": "cxa",
+            "flight_number": "8902",
+            "flight_iata": "mf8902",
+            "flight_icao": "cxa8902"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Zunyi Maotai Airport\r\n",
+          "timezone": null,
+          "iata": "WMT",
+          "icao": "ZUMT",
+          "terminal": null,
+          "gate": "2-6",
+          "delay": null,
+          "scheduled": "2024-07-21T14:45:00+00:00",
+          "estimated": "2024-07-21T14:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Tianhe International",
+          "timezone": "Asia/Shanghai",
+          "iata": "WUH",
+          "icao": "ZHHH",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "6",
+          "delay": null,
+          "scheduled": "2024-07-21T16:25:00+00:00",
+          "estimated": "2024-07-21T16:25:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Sichuan Airlines",
+          "iata": "3U",
+          "icao": "CSC"
+        },
+        "flight": {
+          "number": "2576",
+          "iata": "3U2576",
+          "icao": "CSC2576",
+          "codeshared": {
+            "airline_name": "xiamen airlines",
+            "airline_iata": "mf",
+            "airline_icao": "cxa",
+            "flight_number": "8902",
+            "flight_iata": "mf8902",
+            "flight_icao": "cxa8902"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2024-07-21",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Dubrovnik",
+          "timezone": "Europe/Zagreb",
+          "iata": "DBV",
+          "icao": "LDDU",
+          "terminal": null,
+          "gate": null,
+          "delay": 10,
+          "scheduled": "2024-07-21T15:05:00+00:00",
+          "estimated": "2024-07-21T15:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Belgrade Nikola Tesla",
+          "timezone": "Europe/Belgrade",
+          "iata": "BEG",
+          "icao": "LYBE",
+          "terminal": "2",
+          "gate": null,
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2024-07-21T16:15:00+00:00",
+          "estimated": "2024-07-21T16:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Air Serbia",
+          "iata": "JU",
+          "icao": "ASL"
+        },
+        "flight": {
+          "number": "723",
+          "iata": "JU723",
+          "icao": "ASL723",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      }
+    ]
+  }

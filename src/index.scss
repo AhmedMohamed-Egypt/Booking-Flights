@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+%common{
+position: relative;
+}
+
+@layer components{
+    .hero{
+        @extend %common;
+        @apply  bg-center pt-8 bg-hero bg-repeat h-600 min-h-600 bg-cover after:absolute after:w-full after:bg-layerBlack after:min-h-full after:top-0 after:left-0;
+    
+    }
+    .linkNavBar{
+        @extend %common;
+        @apply text-white  after:transition-all  after:left-0 after:bottom-[-5px] after:absolute after:min-h-[2px] after:w-0 after:bg-orange-400 hover:after:w-full
+    }
+    .btnBook{
+        @extend %common;
+        @apply transition-all duration-1000	 after:absolute after:bottom-[-4px] after:min-h-[2px] after:left-0 after:w-0 after:bg-orange-c  after:transition-all text-grey1 text-xl	;
+    }
+}
+
